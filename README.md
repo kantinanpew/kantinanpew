@@ -1,7 +1,7 @@
 Hi 👋 My name is Kantinan Paritvisut
 ====================================
 
-//Web developer and Front-end developer
+
 -------------------------------------
 
 *   🌍  I'm based in Taiwan
